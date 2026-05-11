@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 I am a **DevOps Engineer** focused on building scalable, reliable, and automated infrastructure. I specialize in bridging the gap between development and operations to accelerate delivery.
 
  ☁️ Specialized in **AWS/Azure/GCP**.
- 🐳 Infrastructure as Code with **Terraform & Ansible**.
- 🚢 Container Orchestration using **Kubernetes & Docker**.
+ 🏗️ Infrastructure as Code with **Terraform & Ansible**.
+ 🐳 Container Orchestration using **Kubernetes & Docker**.
  ⚙️ Building robust **CI/CD pipelines** (GitHub Actions, Jenkins).
 
 ### 🛠 Tech Stack
