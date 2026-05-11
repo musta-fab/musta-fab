@@ -71,6 +71,26 @@ I am a passionate **DevOps Engineer** focused on building scalable, reliable, an
 
 ---
 
+## 📫 Contact Me
+<p align="center">
+📧 <b>mustafab2719@gmail.com</b>
+</p>
+
+---
+
+## 🌐 Connect with me
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mohammed-mustaffa-767565250" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" />
+  <a href="https://www.instagram.com/musta_fab" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
+     </a>
+  
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -95,25 +115,11 @@ I am a passionate **DevOps Engineer** focused on building scalable, reliable, an
 
 ---
 
-## 📫 Contact Me
+## 🤝 Let's build something cool
+
 <p align="center">
-📧 <b>mustafab2719@gmail.com</b>
-</p>
+Open to collaborations, side projects, or just talking DevOps. Reach out!
 
----
-
-## 🌐 Connect with me
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/mohammed-mustaffa-767565250" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" />
-  <a href="https://www.instagram.com/musta_fab" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
-     </a>
-  
-</p>
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="400" />
 </p>
