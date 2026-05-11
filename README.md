@@ -1,20 +1,16 @@
-## Hi there 👋
-
 <!--
 **musta-fab/musta-fab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!-->
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 Multi-Cloud and DevOps Engineer </h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=👋%20Hi%20there!%20i%20am%20Mohammed%20Mustaffa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multicloud%20DevOps%20Engineer%20|%20AWS%20|%20Azure%20|%20GCP&descAlignY=55&descSize=18"/>
+</p>
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <img src="https://vercel.app" />
-  
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=DevOps+Engineer+(AWS+%7C+Azure+%7C+GCP);CI%2FCD+%26+Kubernetes+Automator;Lifelong+Learner+%7C+Tech+Enthusiast" alt="Typing SVG" /></a>
+</p>
 
 ## 🎯 About Me
 I am a passionate **DevOps Engineer** focused on building scalable, reliable, and automated infrastructure. I specialize in bridging the gap between development and operations to accelerate delivery.
@@ -36,7 +32,7 @@ I am a passionate **DevOps Engineer** focused on building scalable, reliable, an
 
 ---
 
-## 🚀 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
 
